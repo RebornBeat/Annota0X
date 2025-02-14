@@ -1,9 +1,9 @@
-# AnnotaLens
-AnnotaLens is a decentralized, gamified marketplace for creating and distributing Valuable Annotations to enhance AI agents for platforms like Sui Console and Eliza OS. The platform offers a plug-and-play annotation feed system, allowing AI developers and researchers to seamlessly integrate valuable insights to upgrade their agents.
+# Annota0X
+Annota0X is a decentralized, gamified marketplace for creating and distributing Valuable Annotations to enhance AI agents for platforms like Sui Console and Eliza OS. The platform offers a plug-and-play annotation feed system, allowing AI developers and researchers to seamlessly integrate valuable insights to upgrade their agents.
 
 The platform is powered by a Beat-the-AI Gamified Process, where contributors stake tokens to provide annotations. If their annotation is deemed valuable by outperforming or aligning with AI-generated insights, they are rewarded with tokens and Valuable Annotation NFTs.
 
-At its core, AnnotaLens ensures a scalable, trusted, and dynamic data annotation marketplace to continuously upgrade AI agents in gaming, conversational AI, and other real-world applications.
+At its core, Annota0X ensures a scalable, trusted, and dynamic data annotation marketplace to continuously upgrade AI agents in gaming, conversational AI, and other real-world applications.
 Key Features:
 1. Valuable Annotations Only
 
